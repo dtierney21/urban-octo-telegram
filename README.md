@@ -1,1 +1,1 @@
-Refactored Hariseon Services webpage.
+Module 1 challenge: Refactored Hariseon Services webpage
